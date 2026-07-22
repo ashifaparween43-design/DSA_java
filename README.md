@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/ashifaparween43-design/DSA_java/tree/master/0239-sliding-window-maximum) |
 | [0904-fruit-into-baskets](https://github.com/ashifaparween43-design/DSA_java/tree/master/0904-fruit-into-baskets) |
 ## Hash Table
 |  |
@@ -12,5 +13,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/ashifaparween43-design/DSA_java/tree/master/0239-sliding-window-maximum) |
 | [0904-fruit-into-baskets](https://github.com/ashifaparween43-design/DSA_java/tree/master/0904-fruit-into-baskets) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/ashifaparween43-design/DSA_java/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/ashifaparween43-design/DSA_java/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/ashifaparween43-design/DSA_java/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
