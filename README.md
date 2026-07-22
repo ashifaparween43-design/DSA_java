@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ashifaparween43-design/DSA_java/tree/master/0239-sliding-window-maximum) |
+| [0485-max-consecutive-ones](https://github.com/ashifaparween43-design/DSA_java/tree/master/0485-max-consecutive-ones) |
 | [0904-fruit-into-baskets](https://github.com/ashifaparween43-design/DSA_java/tree/master/0904-fruit-into-baskets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ashifaparween43-design/DSA_java/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
