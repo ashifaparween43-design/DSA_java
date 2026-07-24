@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/ashifaparween43-design/DSA_java/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/ashifaparween43-design/DSA_java/tree/master/0239-sliding-window-maximum) |
 | [0485-max-consecutive-ones](https://github.com/ashifaparween43-design/DSA_java/tree/master/0485-max-consecutive-ones) |
+| [0523-continuous-subarray-sum](https://github.com/ashifaparween43-design/DSA_java/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ashifaparween43-design/DSA_java/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/ashifaparween43-design/DSA_java/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/ashifaparween43-design/DSA_java/tree/master/0904-fruit-into-baskets) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/ashifaparween43-design/DSA_java/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ashifaparween43-design/DSA_java/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/ashifaparween43-design/DSA_java/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ashifaparween43-design/DSA_java/tree/master/0992-subarrays-with-k-different-integers) |
@@ -46,6 +48,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ashifaparween43-design/DSA_java/tree/master/0238-product-of-array-except-self) |
+| [0523-continuous-subarray-sum](https://github.com/ashifaparween43-design/DSA_java/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ashifaparween43-design/DSA_java/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/ashifaparween43-design/DSA_java/tree/master/0724-find-pivot-index) |
+## Math
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/ashifaparween43-design/DSA_java/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
