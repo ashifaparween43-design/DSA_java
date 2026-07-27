@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/ashifaparween43-design/DSA_java/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/ashifaparween43-design/DSA_java/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/ashifaparween43-design/DSA_java/tree/master/0125-valid-palindrome) |
 ## Sorting
 |  |
 | ------- |
@@ -90,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/ashifaparween43-design/DSA_java/tree/master/1004-max-consecutive-ones-iii) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/ashifaparween43-design/DSA_java/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
