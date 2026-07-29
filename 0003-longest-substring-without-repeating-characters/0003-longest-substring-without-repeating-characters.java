@@ -4,12 +4,13 @@ class Solution {
         int left=0,maxLen=0;
         for(int right=0;right<s.length();right++){
             char ch=s.charAt(right);
-            map.put(ch,map.getOrDefault(ch,0)+1);
-            while(map.get(ch)>1){
-                char leftchar=s.charAt(left);
-                map.put(leftchar,map.get(leftchar)-1);
-                left++;
+
+
+           if(map.containsKey(ch)){
+            left=Math.max(left,map.get(ch)+1);
+           
             }
+            map.put(ch,right);
             maxLen=Math.max(maxLen,right-left+1);
 
         }
