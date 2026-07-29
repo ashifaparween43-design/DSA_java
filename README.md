@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/ashifaparween43-design/DSA_java/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/ashifaparween43-design/DSA_java/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ashifaparween43-design/DSA_java/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/ashifaparween43-design/DSA_java/tree/master/0904-fruit-into-baskets) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ashifaparween43-design/DSA_java/tree/master/0239-sliding-window-maximum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/ashifaparween43-design/DSA_java/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0904-fruit-into-baskets](https://github.com/ashifaparween43-design/DSA_java/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ashifaparween43-design/DSA_java/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/ashifaparween43-design/DSA_java/tree/master/1004-max-consecutive-ones-iii) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/ashifaparween43-design/DSA_java/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/ashifaparween43-design/DSA_java/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ashifaparween43-design/DSA_java/tree/master/0344-reverse-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/ashifaparween43-design/DSA_java/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0647-palindromic-substrings](https://github.com/ashifaparween43-design/DSA_java/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/ashifaparween43-design/DSA_java/tree/master/0680-valid-palindrome-ii) |
 ## Greedy
