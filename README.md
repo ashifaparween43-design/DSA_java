@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/ashifaparween43-design/DSA_java/tree/master/0069-sqrtx) |
 | [0523-continuous-subarray-sum](https://github.com/ashifaparween43-design/DSA_java/tree/master/0523-continuous-subarray-sum) |
 ## Divide and Conquer
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/ashifaparween43-design/DSA_java/tree/master/0069-sqrtx) |
 | [0704-binary-search](https://github.com/ashifaparween43-design/DSA_java/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/ashifaparween43-design/DSA_java/tree/master/1004-max-consecutive-ones-iii) |
 ## String
