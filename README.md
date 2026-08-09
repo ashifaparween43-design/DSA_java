@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/ashifaparween43-design/DSA_java/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ashifaparween43-design/DSA_java/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/ashifaparween43-design/DSA_java/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/ashifaparween43-design/DSA_java/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ashifaparween43-design/DSA_java/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
 |  |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/ashifaparween43-design/DSA_java/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/ashifaparween43-design/DSA_java/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ashifaparween43-design/DSA_java/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/ashifaparween43-design/DSA_java/tree/master/1870-minimum-speed-to-arrive-on-time) |
 ## String
 |  |
 | ------- |
