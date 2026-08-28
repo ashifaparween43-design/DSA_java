@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ashifaparween43-design/DSA_java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/ashifaparween43-design/DSA_java/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/ashifaparween43-design/DSA_java/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/ashifaparween43-design/DSA_java/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/ashifaparween43-design/DSA_java/tree/master/0125-valid-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/ashifaparween43-design/DSA_java/tree/master/0227-basic-calculator-ii) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ashifaparween43-design/DSA_java/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ashifaparween43-design/DSA_java/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ashifaparween43-design/DSA_java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/ashifaparween43-design/DSA_java/tree/master/0227-basic-calculator-ii) |
@@ -216,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/ashifaparween43-design/DSA_java/tree/master/0394-decode-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ashifaparween43-design/DSA_java/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
