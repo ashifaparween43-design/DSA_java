@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ashifaparween43-design/DSA_java/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ashifaparween43-design/DSA_java/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ashifaparween43-design/DSA_java/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ashifaparween43-design/DSA_java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ashifaparween43-design/DSA_java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/ashifaparween43-design/DSA_java/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ashifaparween43-design/DSA_java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/ashifaparween43-design/DSA_java/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/ashifaparween43-design/DSA_java/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ashifaparween43-design/DSA_java/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ashifaparween43-design/DSA_java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/ashifaparween43-design/DSA_java/tree/master/0152-maximum-product-subarray) |
 | [0647-palindromic-substrings](https://github.com/ashifaparween43-design/DSA_java/tree/master/0647-palindromic-substrings) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/ashifaparween43-design/DSA_java/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ashifaparween43-design/DSA_java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0680-valid-palindrome-ii](https://github.com/ashifaparween43-design/DSA_java/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ashifaparween43-design/DSA_java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Matrix
